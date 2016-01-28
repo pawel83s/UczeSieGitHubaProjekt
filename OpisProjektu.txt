@@ -1,2 +1,13 @@
 Zadanie 1.0.0: Poznajê komende stash.
 	Zadanie 1.1.0: Tworzê przyk³adowy scenariusz wymagaj¹cy u¿ycia komendy stash.
+	
+	scenariusz 1.:
+	Tworze dwa nowe branche z mastera. Jeden o nazwie 'TrenujeStash' poto aby cwiczyc komende stash. Drugi o nazwie 'TrenujeMerge' poto aby cwiczyc komende Merge.
+	Przechodze na brancha 'TrenujeStash' przy pomocy komendy 'git checkout TrenujeStash'.
+	Dopisuje do OpisProjektu.txt jeden scenariusz do Zadania 1.0.0. Nastêpnie po napisaniu czêsci scenariusza 1. zapisuje wszystko przy pomocy komendy 'stash save "Czesciowo utworzony scenariusz 1. do zadania 1.0.0"'
+	Przechodze na brancha 'TrenujeMerge' przy pomocy komendy 'git checkout TrenujeMerge'.
+	Dopisuje do 'OpisProjektu.txt' nowe zadanie 'Zadanie 2.0.0: Poznajê komendê merge'.
+	Nastêpnie po napisaniu czêsci Zadania 2.0.0, zapisuje wszystko przy pomocy komendy 'stash save "Czêœciowo utworzony opis Zadania 2.0.0"'
+	Przechodze na brancha 'TrenujeStash' przy pomocy komendy 'git checkout TrenujeStash'.
+	Dokanczam scenariusz 1. w zadaniu 1.0.0.
+	Dodaje commita i pusha bedac na branch 'TrenujeStash'.
