@@ -6,3 +6,4 @@ Scenariusz 1. do Zadania 1.
 Zadanie 2:
 Cel zadania 2.:
 Poznaæ komendê checkout.
+Zadanie 3:
