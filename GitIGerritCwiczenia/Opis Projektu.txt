@@ -3,3 +3,6 @@ Zadanie 1:
 Cel zadania 1.:
 Poznaæ komendê merge.
 Scenariusz 1. do Zadania 1.
+Zadanie 2:
+Cel zadania 2.:
+Poznaæ komendê checkout.
